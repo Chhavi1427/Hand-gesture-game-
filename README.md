@@ -34,3 +34,15 @@ The Hand Gesture Game Controller project revolutionizes gaming by enabling playe
 ## Contributions
 Contributions are welcome! If you have any ideas for improvements or additional features, feel free to open an issue or submit a pull request.
 
+## Contact 
+
+**Project Name:** Email/SMS Spam Classifier
+
+**Author:** [Chhavi Modi ](https://github.com/Chhavi1427)
+
+**Project Link:** https://github.com/Chhavi1427/Email-spam-detection
+
+**Email:** modichavi1427@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/chhavi-modi-079518227
+
