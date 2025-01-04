@@ -36,11 +36,9 @@ Contributions are welcome! If you have any ideas for improvements or additional 
 
 ## Contact 
 
-**Project Name:** Email/SMS Spam Classifier
+**Project Name:** Hand Gesture Game 
 
-**Author:** [Chhavi Modi ](https://github.com/Chhavi1427)
-
-**Project Link:** https://github.com/Chhavi1427/Email-spam-detection
+**Author:** [Chhavi Modi ](https://github.com/Chhavi1427) 
 
 **Email:** modichavi1427@gmail.com
 
